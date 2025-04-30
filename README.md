@@ -1,2 +1,2 @@
-# Tasks--Calculator-To-do-list-Weather-App
-Html , Css , Js
+# Prodigy-InfoTech
+Virtual Internship Projects Repo
